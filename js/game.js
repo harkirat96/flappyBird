@@ -9,7 +9,7 @@ var bgImage = new Image();
 bgImage.onload = function () {
 	bgReady = true;
 };
-bgImage.src = "images/background.png";
+bgImage.src = "images/new_background.png";
 //bird image
 var birdReady = false;
 var birdImage = new Image();
